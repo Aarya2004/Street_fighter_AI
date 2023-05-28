@@ -1,0 +1,11 @@
+Memory addresses of different important values for training of AI Model
+
+P1 Health: 0xC3E2 | 0xC3E3
+P2 Health: 0xC3E | 0xC3E5
+
+Player X value: 0xC421
+Player Jump: 0xC423
+
+Score?: 0xC598 0xC599
+
+Timer: 0xCBB3
